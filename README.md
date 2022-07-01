@@ -1,5 +1,5 @@
 House marketplace app 
-Works along to brad on dummy 
+Works along to brad on udummy 
 ### Run
 
 ```bash
